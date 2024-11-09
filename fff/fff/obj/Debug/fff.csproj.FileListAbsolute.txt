@@ -1,0 +1,13 @@
+C:\Users\429197-19\source\repos\fff\fff\bin\Debug\fff.exe.config
+C:\Users\429197-19\source\repos\fff\fff\bin\Debug\fff.exe
+C:\Users\429197-19\source\repos\fff\fff\bin\Debug\fff.pdb
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.csproj.AssemblyReference.cache
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.Form1.resources
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.Properties.Resources.resources
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.csproj.GenerateResource.cache
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.csproj.CoreCompileInputs.cache
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.exe
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.pdb
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.admin.resources
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.client.resources
+C:\Users\429197-19\source\repos\fff\fff\obj\Debug\fff.farma.resources
